@@ -390,4 +390,10 @@ type ElementStyles = CSSObject | ((params: MenuItemStylesParams) => CSSObject | 
 
 ## License
 
+## Changelog
+### 1.1.0-alpha.2
+- Fixed the issue of collapse/expand according to change by managing internal with open state hook
+
+
+
 MIT © [Mohamed Azouaoui](https://azouaoui.netlify.app)
